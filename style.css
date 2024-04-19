@@ -1,7 +1,13 @@
+/* light.css */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* dark.css */
+body {
+    background-color: #333;
+    color: #f4f4f4;
 }
 
 header {
